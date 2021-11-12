@@ -21,4 +21,3 @@ public class ArrayAddition {
 
 }
 
-// Understand the TWO Dimensional array logic
